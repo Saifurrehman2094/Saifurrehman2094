@@ -4,82 +4,88 @@
 
 ### Backend Engineer • DevOps • AI Systems • Cloud-Native Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Engineering;Kubernetes+%7C+AWS+%7C+Terraform;AI+Integrated+Systems;CI%2FCD+%7C+Cloud+Infrastructure;Distributed+Systems+%7C+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Kubernetes+%7C+AWS+%7C+Terraform;CI%2FCD+Pipelines;AI+Integrated+Systems;Distributed+Systems;Backend+Engineering" />
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-```yaml
-name: Saif ur Rehman
-role: Backend & Cloud Engineer
-education: FAST NUCES - Computer Science
-location: Pakistan
+- Computer Science student at FAST NUCES
+- Backend & Cloud Engineering enthusiast
+- Interested in scalable systems and infrastructure automation
+- Building AI-integrated and cloud-native applications
+- Experienced with Kubernetes, Docker, Terraform, AWS & CI/CD
 
-focus:
-  - Backend Engineering
-  - Cloud-Native Infrastructure
-  - Kubernetes & DevOps
-  - AI-Integrated Systems
-  - Distributed Applications
-  - Workflow Automation
+---
 
-currently_working_on:
-  - Kubernetes deployments
-  - GitOps pipelines
-  - AI-powered systems
-  - Infrastructure automation
-Tech Stack
-Languages
-Backend & Databases
-Cloud & DevOps
-AI & Tools
-Engineering Focus
-Designing scalable backend systems
-Infrastructure automation with Terraform & Ansible
-Kubernetes orchestration & GitOps workflows
-CI/CD pipelines for microservices
-AI-integrated backend applications
-Monitoring & analytics systems
-Distributed systems architecture
-Secure API & authentication systems
-Featured Projects
-Cloud-Native Microservices Deployment Platform
+## Tech Stack
 
-Kubernetes • AWS • Terraform • Ansible • Argo CD • Docker
+<div align="center">
 
-Provisioned infrastructure on AWS using Terraform
-Automated server configuration with Ansible
-Managed microservices with Kubernetes
-Implemented GitOps continuous deployment using Argo CD
-Built CI/CD pipelines for automated deployments
-AI Tools Recommendation Engine
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,express,mongodb,mysql,docker,kubernetes,terraform,aws,ansible,linux,git,githubactions" />
 
-Python • RAG • Vector Databases • AI Pipelines
+</div>
 
-Built AI-powered recommendation workflows
-Developed retrieval-augmented generation pipelines
-Implemented vector similarity search
-Automated structured data ingestion pipelines
-LabGuard — AI Monitoring & Analytics System
+---
 
-Node.js • MongoDB • Real-Time Analytics
+## Featured Projects
 
-Built event-driven monitoring systems
-Developed behavioral analytics dashboards
-Implemented low-latency backend processing
-Automated event-based triggers & reporting
-Blockchain Document Verification System
+### Cloud-Native Deployment Platform
+- Kubernetes + Argo CD + Terraform + AWS
+- GitOps-based microservices deployment
+- Automated CI/CD workflows
 
-Blockchain • APIs • Distributed Validation
+### AI Recommendation Engine
+- RAG pipelines
+- Vector databases
+- AI-powered recommendation workflows
 
-Developed tamper-resistant verification workflows
-Implemented distributed validation architecture
-Automated document authenticity checks
-GitHub Analytics
-Contribution Streak
-Activity Graph
-Connect With Me
-Building scalable systems one deployment at a time
+### LabGuard Analytics System
+- Real-time monitoring
+- Event-driven backend systems
+- Analytics dashboards
+
+### Blockchain Verification System
+- Distributed document validation
+- Secure verification workflows
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saifurrehman2094&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifurrehman2094&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Saifurrehman2094&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:saif.shafqat92@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/saif-ur-rehman001">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+```
